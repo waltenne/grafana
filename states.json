@@ -28,11 +28,5 @@
 		"latitude": -30.01,
 		"longitude": -51.22,
 		"name": "Rio Grande do Sul"
-	},
-	{
-		"key": "AC",
-		"latitude": -8.77,
-		"longitude": -70.55,
-		"name": "Acre"
 	}
 ]
