@@ -1,0 +1,20 @@
+[
+	{
+		"key": "AC",
+		"latitude": -8.77,
+		"longitude": -70.55,
+		"name": "Acre"
+	},
+	{
+		"key": "AL",
+		"latitude": -9.71,
+		"longitude": -35.73,
+		"name": "Alagoas"
+	},
+	{
+		"key": "PR",
+		"latitude": -24.89,
+		"longitude": -51.55,
+		"name": "Paraná"
+	},
+]
