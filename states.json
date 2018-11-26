@@ -24,6 +24,24 @@
 		"name": "Bahia"
 	},
 	{
+		"key": "CE",
+		"latitude": -5.19,
+		"longitude": -39.29,
+		"name": "Ceará"
+	},
+	{
+		"key": "GO",
+		"latitude": -15.92,
+		"longitude": -49.61,
+		"name": "Goiás"
+	},
+	{
+		"key": "MT",
+		"latitude": -13.05,
+		"longitude": -55.90,
+		"name": "Mato Grosso"
+	},
+	{
 		"key": "PR",
 		"latitude": -24.89,
 		"longitude": -51.55,
