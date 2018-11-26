@@ -12,6 +12,12 @@
 		"name": "Alagoas"
 	},
 	{
+		"key": "AM",
+		"latitude": -4.88,
+		"longitude": -65.34,
+		"name": "Alagoas"
+	},
+	{
 		"key": "PR",
 		"latitude": -24.89,
 		"longitude": -51.55,
@@ -19,14 +25,14 @@
 	},
 	{
 		"key": "SP",
-		"latitude": -23.55,
-		"longitude": -46.64,
+		"latitude": -22.03,
+		"longitude": -48.91,
 		"name": "São Paulo"
 	},
 	{
 		"key": "RS",
-		"latitude": -30.01,
-		"longitude": -51.22,
+		"latitude": -29.22,
+		"longitude": -53.68,
 		"name": "Rio Grande do Sul"
 	}
 ]
