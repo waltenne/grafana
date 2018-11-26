@@ -18,6 +18,12 @@
 		"name": "Alagoas"
 	},
 	{
+		"key": "BH",
+		"latitude": -12.24,
+		"longitude": -41.60,
+		"name": "Bahia"
+	},
+	{
 		"key": "PR",
 		"latitude": -24.89,
 		"longitude": -51.55,
