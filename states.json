@@ -1,17 +1,5 @@
 [
 	{
-		"key": "AC",
-		"latitude": -8.77,
-		"longitude": -70.55,
-		"name": "Acre"
-	},
-	{
-		"key": "AL",
-		"latitude": -9.71,
-		"longitude": -35.73,
-		"name": "Alagoas"
-	},
-	{
 		"key": "AM",
 		"latitude": -4.88,
 		"longitude": -65.34,
@@ -36,10 +24,28 @@
 		"name": "Goiás"
 	},
 	{
+		"key": "MG",
+		"latitude": -18.76,
+		"longitude": -44.40,
+		"name": "Minas Gerais"
+	},
+	{
+		"key": "MS",
+		"latitude": -20.42,
+		"longitude": -54.62,
+		"name": "Mato Grosso do Sul"
+	},
+	{
 		"key": "MT",
 		"latitude": -13.05,
 		"longitude": -55.90,
 		"name": "Mato Grosso"
+	},
+	{
+		"key": "PE",
+		"latitude": -8.33,
+		"longitude": -38.11,
+		"name": "Pernambuco"
 	},
 	{
 		"key": "PR",
