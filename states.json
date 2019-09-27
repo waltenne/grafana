@@ -12,6 +12,12 @@
 		"name": "Bahia"
 	},
 	{
+		"key": "DF",
+		"latitude": -15.83,
+		"longitude": -47.86,
+		"name": "Distrito Federal"
+	},
+	{
 		"key": "CE",
 		"latitude": -5.19,
 		"longitude": -39.29,
@@ -52,6 +58,12 @@
 		"latitude": -24.89,
 		"longitude": -51.55,
 		"name": "Paraná"
+	},
+	{
+		"key": "RJ",
+		"latitude": -22.84,
+		"longitude": -43.15,
+		"name": "Rio de Janeiro"	
 	},
 	{
 		"key": "SP",
